@@ -1,5 +1,5 @@
 body {
-  background-color: #ebecf1;
+  background-color: white;
 }
 
 hr {
@@ -17,4 +17,9 @@ h1 {
 
 h3 {
   color: #0f3460;
+}
+
+img {
+  max-width: 150px;
+  max-height: 150px;
 }
